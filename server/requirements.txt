@@ -4,5 +4,5 @@ Flask-JWT==0.3.2
 flask-mongoengine==0.9.5
 Flask-RESTful==0.3.7
 Flask-RQ2==18.3
-Pillow==6.2.1
+Pillow==9.3.0
 delegator.py
